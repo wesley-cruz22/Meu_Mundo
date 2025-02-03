@@ -1,2 +1,2 @@
 # Meu_Mundo
- Meu primeiro repositório do curso Git e GitHub
+ Meu primeiro repositório do curso de Git e GitHub
